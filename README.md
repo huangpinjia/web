@@ -9,5 +9,11 @@
 # 課程筆記區
 
 # 作業連結區
-### HW1k This is [file:///C:/Users/pinji/Documents/GitHub/web/practice/index.html][作業1] reference-style link.
+
+### HW1
+
+[作業1]:[ http://example.com/longish/path/to/resource/here]
+
+
+
 # 專題連結區
